@@ -32,11 +32,15 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. What is the difference between a function and a method?
 
+A method is a function inside of an object.
+
 3. What is closure?
 
 4. Describe the four rules of the 'this' keyword.
 
 5. Why do we need super() in an extended class?
+
+We use the keyword super() in conjunction with extends to impot the properties from the parent class.
 
 ## Project Set up
 
