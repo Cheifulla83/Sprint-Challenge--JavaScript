@@ -34,6 +34,7 @@ function greeting(firstName, lastName) {
 // ==== Closures ==== 
 
 // Explain in your own words why nested function can access the variable internal.
+// The nested function has acces because it is within the scope of the outer function so it gives access to the local variables
 
 // Explanation: Nested function can access internal because internal is within the same function as nested function but it is on a higher scope level. 
 
